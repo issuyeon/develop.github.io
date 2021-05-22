@@ -1,0 +1,23 @@
+.blue {
+    color: rgb(158, 205, 226);
+}
+
+h1 {
+    color: #000;
+    color: hsla(0,80%, 50%,0.5)
+}
+
+body {
+    color: red;
+    font-size: 20px;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black;
+    background-color: rgb(177, 87, 204);
+}
+
